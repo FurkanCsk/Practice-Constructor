@@ -3,7 +3,8 @@
 OOP öğrenme aşamasında constructor konusunu pekiştirmek amacıyla yapmış olduğum bu pratikte parametre almayan default bir constructor, iki parametre alan constructor içine bir bebek ağlamasını gösteren mesaj yerleştirdim. 
 Bu sayede bu iki constructor ile oluşturulan herhangi bir bebek nesnesinde "Ingaaa" mesajı gösterilmektedir. Pratiğin detayları şu şekildedir : 
 
-![image](https://github.com/user-attachments/assets/70c939f1-8770-4de9-88d7-d2e5f0fc4b93)
+![image](https://github.com/user-attachments/assets/06642981-748e-41c7-86c9-6951a0ce7033)
+
 
 
 Pratik - Constructor 
